@@ -1,4 +1,4 @@
-# Unity-echo3D-Demo-LeprechaunLaunch
+# LeprechaunLaunch
 
 Launch the Leprechaun over the rainbow to steal its coins!
 
